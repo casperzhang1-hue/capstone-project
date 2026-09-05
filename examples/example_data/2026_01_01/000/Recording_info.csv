@@ -1,0 +1,23 @@
+Recording start time,1767225600
+Recording end time,1767225602
+PlannedDurationS,2
+SubjectID,EXAMPLE01
+EyeTrackerID,ExampleTracker
+TestID,Accuracy
+TrialNumber,1
+TestCondition,standard
+OperatorID,DEMO
+DeviceModel,Synthetic
+DeviceSerial,EX-001
+DeviceSoftwareVersion,1.0
+NominalSamplingHz,10
+CalibrationMethod,nine-point
+ValidationMethod,two-target example
+DisplayWidthPx,1920
+DisplayHeightPx,1080
+DisplayWidthMm,530
+DisplayHeightMm,300
+ViewingDistanceMm,600
+Environment,controlled example
+Calibration avg error,0.35
+Calibration valid points,9

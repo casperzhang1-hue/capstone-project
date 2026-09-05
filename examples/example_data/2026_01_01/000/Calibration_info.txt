@@ -1,0 +1,1 @@
+Example calibration record. Device-reported average error: 0.35 degrees. Valid points: 9.

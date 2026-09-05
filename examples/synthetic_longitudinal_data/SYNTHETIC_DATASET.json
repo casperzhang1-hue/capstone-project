@@ -1,0 +1,12 @@
+{
+  "dataset_type": "synthetic_longitudinal_example",
+  "physical_hardware_used": false,
+  "dates": [
+    "2026_01_01",
+    "2026_01_08",
+    "2026_01_15"
+  ],
+  "participant_count": 1,
+  "session_count": 3,
+  "warning": "Do not report these measurements as physical device validation."
+}

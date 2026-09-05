@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "method": "vendor nine-point calibration",
+  "valid_points": 9,
+  "average_error": 0.8,
+  "unit": "degrees",
+  "high_quality_samples": 180,
+  "confidence_threshold": 0.8,
+  "source": "replace with the real vendor export filename and software version",
+  "timestamp_utc": "2026-07-28T00:00:00+00:00"
+}

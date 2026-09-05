@@ -1,0 +1,43 @@
+{
+  "module": "client_requested_delay_comparison",
+  "source": "DemoB_FinalEdition/DemoB_FinalEdition/reports/demo_b_evidence",
+  "scope": "Focused client-delay decision evidence only; pipeline-threshold tuning material is intentionally excluded.",
+  "selected_delay_s": 0.05,
+  "selected_delay_ms": 50,
+  "client_candidates_s": [
+    0.05,
+    0.1,
+    0.15
+  ],
+  "primary_metrics": [
+    "balanced_accuracy_deg",
+    "balanced_repeat_spread_deg"
+  ],
+  "bootstrap_repetitions": 3000,
+  "separate_from_openet2_target_settle_time_s": true,
+  "included_data": [
+    "data/delay_metrics_accuracy_and_spread.csv",
+    "data/client_candidate_pairwise_bootstrap.csv",
+    "data/participant_condition_target_metrics.csv",
+    "data/selected_delay_client_rule.json",
+    "data/corrected_target_positions.csv",
+    "data/ellipse_master_delay_0.0500s.csv",
+    "data/recording_target_means_delay_0.0500s.csv"
+  ],
+  "included_figures": [
+    "figures/delay_accuracy.png",
+    "figures/delay_spread.png",
+    "figures/condition_calibration.png",
+    "figures/condition_10min.png",
+    "figures/condition_60min.png",
+    "figures/ellipse_coverage.png"
+  ],
+  "coordinate_unit": "assumed_field_of_view_degrees",
+  "assumed_field_of_view_deg": {
+    "x": 60.0,
+    "y": 33.75
+  },
+  "physical_display_geometry_available": false,
+  "interpretation": "Approximate dataset-specific scores on a fixed display-FOV grid; not measured physical visual angles.",
+  "figure_rebuild_script": "rebuild_figures.py"
+}

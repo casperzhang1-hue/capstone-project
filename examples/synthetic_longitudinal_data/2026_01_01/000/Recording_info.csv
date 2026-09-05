@@ -1,0 +1,41 @@
+SchemaVersion,1.0
+OpenET2Version,1.6.0
+Recording start time,1767261600.0
+Recording end time,1767261681.0
+PlannedDurationS,81.0
+SubjectID,SYNTHETIC_P01
+EyeTrackerID,SYNTHETIC_GP3
+TestID,Synthetic longitudinal accuracy
+TrialNumber,1
+TestCondition,synthetic_standard
+VisitLabel,synthetic_visit_1
+OperatorID,openet2_generator
+DeviceModel,software_simulator
+DeviceSerial,SYNTHETIC-NOT-HARDWARE
+DeviceSoftwareVersion,1.0
+NominalSamplingHz,60.0
+CalibrationMethod,simulated nine-point
+CalibrationConfirmed,True
+CalibrationStatus,simulated_pass
+Calibration avg error,0.3
+Calibration valid points,9
+CalibrationHighQualitySamples,180
+CalibrationConfidenceThreshold,0.8
+CalibrationErrorUnit,degrees
+CalibrationSource,openet2_example_generator
+ValidationMethod,synthetic 27-interval protocol
+DisplayWidthPx,1920
+DisplayHeightPx,1080
+DisplayWidthMm,530
+DisplayHeightMm,300
+ViewingDistanceMm,600
+DisplayModel,synthetic display
+DisplayRefreshHz,60
+Environment,synthetic; no physical environment
+AmbientIlluminanceLux,0
+HeadSupport,not applicable
+TargetPresentationS,2.34
+TargetSettlingS,0.6
+MinimumPostSettleValidSamples,100
+Notes,Generated example only; not measured device performance.
+DryRun,True

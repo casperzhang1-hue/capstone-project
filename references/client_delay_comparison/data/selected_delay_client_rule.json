@@ -1,0 +1,52 @@
+{
+  "selected_delay_s": 0.05,
+  "selected_delay_formatted": "0.0500 s",
+  "client_candidates_s": [
+    0.05,
+    0.1,
+    0.15
+  ],
+  "extended_sensitivity_scan_s": [
+    0.0,
+    0.01,
+    0.02,
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.07,
+    0.08,
+    0.09,
+    0.1,
+    0.11,
+    0.12,
+    0.13,
+    0.14,
+    0.15,
+    0.16,
+    0.17,
+    0.18,
+    0.19,
+    0.2
+  ],
+  "selected_by_condition_s": {
+    "Calib & Acc": 0.05,
+    "Acc 10min": 0.05,
+    "Acc 60min": 0.05
+  },
+  "primary_accuracy_metric": "median across equally weighted participant-condition-target cells; cell value is median target error of its marker-window means",
+  "primary_spread_metric": "median across equally weighted participant-condition-target cells; cell value is median radial spread of repeated marker-window means",
+  "decision_rule": "start at 0.0500 s; use a longer client candidate only when participant-level paired bootstrap shows a clear improvement in accuracy or spread without a clear worsening of the other; otherwise prefer the shorter delay",
+  "meeting_interpretation": "primary comparison is exactly 0.0500, 0.1000, and 0.1500 s; the meeting also requires separate calibration, 10-minute, and 60-minute views and a final shortest-equivalent recommendation",
+  "openet2_reference_warning": "the OpenET2 v1.5 reference figure used target_settle_time_s=0.6000 and paper-style target-mismatch/MAD filtering, so it is a visual/statistical reference only and is not evidence for choosing 0.6000 s in Demo B",
+  "ellipse_role": "post-selection empirical 95% coverage QA; excluded from delay score",
+  "bootstrap_repetitions": 3000,
+  "bootstrap_seed": 20260717,
+  "coordinate_unit": "assumed_field_of_view_degrees",
+  "assumed_field_of_view_deg": {
+    "x": 60.0,
+    "y": 33.75
+  },
+  "physical_display_geometry_available": false,
+  "coordinate_interpretation": "Approximate dataset-specific scores on a fixed display-FOV grid; not measured physical visual angles."
+}

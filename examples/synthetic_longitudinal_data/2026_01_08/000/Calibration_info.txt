@@ -1,0 +1,11 @@
+{
+  "timestamp_utc": "2026-01-08T10:00:00+00:00",
+  "method": "simulated nine-point",
+  "status": "simulated_pass",
+  "valid_points": 9,
+  "high_quality_samples": 180,
+  "confidence_threshold": 0.8,
+  "average_error": 0.32999999999999996,
+  "unit": "degrees",
+  "source": "openet2_example_generator"
+}
