@@ -1,0 +1,24 @@
+{
+  "standard_time_basis": "relative_seconds",
+  "time_origin_epoch_s": 1744350880.1679482,
+  "origin_source": "inferred_earliest_epoch_timestamp",
+  "transformed_columns": [
+    {
+      "frame": "gaze",
+      "column": "time_s"
+    },
+    {
+      "frame": "video",
+      "column": "time_s"
+    },
+    {
+      "frame": "markers",
+      "column": "marker_start_s"
+    },
+    {
+      "frame": "markers",
+      "column": "marker_end_s"
+    }
+  ],
+  "source_data_modified": false
+}
