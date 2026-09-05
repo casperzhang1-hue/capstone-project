@@ -1,0 +1,41 @@
+session_id,date,run_id,session_path,subject_id,device_id,test_id,trial_number,test_condition,visit_label,recording_start_time,recording_end_time,planned_duration_s,operator_id,device_model,device_serial,device_software_version,nominal_sampling_hz,calibration_method,validation_method,gaze_file,source_format,calibration_avg_error,calibration_valid_points,calibration_high_quality_samples,calibration_confidence_threshold,calibration_error_unit,calibration_status,calibration_source,display_width_px,display_height_px,display_width_mm,display_height_mm,viewing_distance_mm,display_model,display_refresh_hz,environment,ambient_illuminance_lux,head_support,target_presentation_s,target_settle_time_s,minimum_post_settle_valid_samples,notes,metadata_conflict_fields,metadata_read_error,has_gaze,has_video,has_recording_info,has_marker,has_calibration,has_log
+2025_04_11/000,2025_04_11,000,2025_04_11/000,CL98,GP3,Calib & Acc,1,,,1744348101.5029204,,,,,,,,,,GP3HD_data.csv,GP3HD,55.53,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/001,2025_04_11,001,2025_04_11/001,CL98,GP3,Acc 10min,2,,,1744348430.1129403,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/003,2025_04_11,003,2025_04_11/003,LW03,GP3,Calib & Acc,4,,,1744348892.6908476,,,,,,,,,,GP3HD_data.csv,GP3HD,22.67,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/004,2025_04_11,004,2025_04_11/004,LW03,GP3,Acc 10min,5,,,1744349477.7389948,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/005,2025_04_11,005,2025_04_11/005,JL98,GP3,Calib & Acc,6,,,1744349690.0561163,,,,,,,,,,GP3HD_data.csv,GP3HD,139.77,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/006,2025_04_11,006,2025_04_11/006,JL98,GP3,Acc 10min,7,,,1744350669.117535,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/007,2025_04_11,007,2025_04_11/007,,,,8,,,,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,,,,,,,,,,,,,,,,,True,True,False,True,True,True
+2025_04_11/008,2025_04_11,008,2025_04_11/008,LW03,GP3,Acc 60min,9,,,1744351082.461099,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/009,2025_04_11,009,2025_04_11/009,PW78,GP3,Calib & Acc,10,,,1744351248.5541692,,,,,,,,,,GP3HD_data.csv,GP3HD,34.8,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/010,2025_04_11,010,2025_04_11/010,PW78,GP3,Acc 10min,11,,,1744352150.33839,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/011,2025_04_11,011,2025_04_11/011,JL98,GP3,Acc 60min,12,,,1744353417.2034142,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_11/012,2025_04_11,012,2025_04_11/012,PW78,GP3,Acc 60min,13,,,1744354735.3575416,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/001,2025_04_12,001,2025_04_12/001,CL98test,GP3,Calib & Acc,2,,,1744413207.420712,,,,,,,,,,GP3HD_data.csv,GP3HD,28.64,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/002,2025_04_12,002,2025_04_12/002,MQ85,GP3,Calib & Acc,3,,,1744415472.0736544,,,,,,,,,,GP3HD_data.csv,GP3HD,10.48,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/003,2025_04_12,003,2025_04_12/003,MQ85,GP3,Acc 10min,4,,,1744417129.0376344,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/004,2025_04_12,004,2025_04_12/004,NM84,GP3,Calib & Acc,5,,,1744418859.0676947,,,,,,,,,,GP3HD_data.csv,GP3HD,15.84,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/005,2025_04_12,005,2025_04_12/005,QZ00,GP3,Calib & Acc,6,,,1744419864.3892097,,,,,,,,,,GP3HD_data.csv,GP3HD,50.96,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/008,2025_04_12,008,2025_04_12/008,NM84,GP3,Acc 10min,9,,,1744420349.0142047,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/011,2025_04_12,011,2025_04_12/011,MQ85,GP3,Acc 60min,12,,,1744420739.534862,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/012,2025_04_12,012,2025_04_12/012,QZ00,GP3,Acc 10min,13,,,1744420948.1820211,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/013,2025_04_12,013,2025_04_12/013,SY91,GP3,Calib & Acc,14,,,1744423118.1159763,,,,,,,,,,GP3HD_data.csv,GP3HD,1477.47,3.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/014,2025_04_12,014,2025_04_12/014,QZ00,GP3,Acc 60min,15,,,1744423326.0523596,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/015,2025_04_12,015,2025_04_12/015,YR00,GP3,Calib & Acc,16,,,1744423489.911293,,,,,,,,,,GP3HD_data.csv,GP3HD,31.99,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/016,2025_04_12,016,2025_04_12/016,NM84,GP3,Acc 60min,17,,,1744423787.7483275,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/017,2025_04_12,017,2025_04_12/017,SS73,GP3,Calib & Acc,18,,,1744424185.711828,,,,,,,,,,GP3HD_data.csv,GP3HD,21.04,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/018,2025_04_12,018,2025_04_12/018,YR00,GP3,Acc 10min,19,,,1744424478.2458484,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/019,2025_04_12,019,2025_04_12/019,SS73,GP3,Acc 10min,20,,,1744425281.6677155,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/020,2025_04_12,020,2025_04_12/020,RB76,GP3,Calib & Acc,21,,,1744425607.4626734,,,,,,,,,,GP3HD_data.csv,GP3HD,27.96,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/021,2025_04_12,021,2025_04_12/021,SY91,GP3,Acc 10min,22,,,1744426223.246376,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/022,2025_04_12,022,2025_04_12/022,SY91,GP3,Acc 60min,23,,,1744426360.968299,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/023,2025_04_12,023,2025_04_12/023,YR00,GP3,Acc 60min,24,,,1744426907.2081916,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/024,2025_04_12,024,2025_04_12/024,RB76,GP3,Acc 10min,25,,,1744427105.25365,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/025,2025_04_12,025,2025_04_12/025,AW75,GP3,Calib & Acc,26,,,1744427620.3421986,,,,,,,,,,GP3HD_data.csv,GP3HD,85.09,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/026,2025_04_12,026,2025_04_12/026,JH71,GP3,Calib & Acc,27,,,1744427896.8806133,,,,,,,,,,GP3HD_data.csv,GP3HD,16.06,5.0,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/027,2025_04_12,027,2025_04_12/027,SS73,GP3,Acc 60min,28,,,1744428111.4956112,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/028,2025_04_12,028,2025_04_12/028,JH71,GP3,Acc 10min,29,,,1744428715.190672,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/029,2025_04_12,029,2025_04_12/029,RB76,GP3,Acc 60min,30,,,1744428909.497981,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,False,True,True
+2025_04_12/030,2025_04_12,030,2025_04_12/030,AW75,GP3,Acc 10min,31,,,1744429059.3938148,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/031,2025_04_12,031,2025_04_12/031,AW75,GP3,Acc 60min,32,,,1744430014.4408262,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True
+2025_04_12/032,2025_04_12,032,2025_04_12/032,JH71,GP3,Acc 60min,33,,,1744430342.4534214,,,,,,,,,,GP3HD_data.csv,GP3HD,,,,,,,,1920.0,1080.0,,,,,,,,,,,,,,,True,True,True,True,True,True

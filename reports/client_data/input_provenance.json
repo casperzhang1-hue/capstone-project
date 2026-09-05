@@ -1,0 +1,1402 @@
+{
+  "schema_version": "1.0",
+  "openet2_version": "1.6.0",
+  "generated_utc": "2026-07-27T22:30:10.045040+00:00",
+  "data_root": "openet2://input",
+  "hash_algorithm": "sha256",
+  "file_count": 278,
+  "hash_error_count": 0,
+  "content_digest_sha256": "c4536dfdb17be8c1c78d34766e62719d5f096640c3d5dcc97ba9172ffec56864",
+  "files": [
+    {
+      "path": "2025_04_11/000/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "5ae76131f7c4300ad1a4e30274ce5d0c4c92ae3099b8c34b127fdf650fdd6a79"
+    },
+    {
+      "path": "2025_04_11/000/GP3HD_data.csv",
+      "size_bytes": 265547,
+      "sha256": "b06ecdb1bd5327c629a3697973377c58018ee1d47fad841c00c998e43a34a049"
+    },
+    {
+      "path": "2025_04_11/000/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "eff14dbd457548571b747cddb032f13b4ee2e7e055644e70125d1fae1e3b6a26"
+    },
+    {
+      "path": "2025_04_11/000/Video_data.csv",
+      "size_bytes": 14573,
+      "sha256": "08dbb6717d20d90200fc39e3d66534d4f47d00045bb3a0011525f07e02aadaa7"
+    },
+    {
+      "path": "2025_04_11/000/acc_marker_external.csv",
+      "size_bytes": 1039,
+      "sha256": "eaa2bc245d19b5e33b6aa1a5f112ee635f0a7c953b837e2d3af97c2059f1396b"
+    },
+    {
+      "path": "2025_04_11/000/application.log",
+      "size_bytes": 9632,
+      "sha256": "0d3ee3811cc5bc561a2f04467f44d615b8babffd13d43441104024583348b6dc"
+    },
+    {
+      "path": "2025_04_11/000/ext_display_acc_video.avi",
+      "size_bytes": 3491282,
+      "sha256": "ba445e30feb72324a17cdb0e9fa628a363400f14d6ce57b9b632a6322a6a6e25"
+    },
+    {
+      "path": "2025_04_11/001/GP3HD_data.csv",
+      "size_bytes": 301217,
+      "sha256": "1d6238a5831385990e1376850a270a50164541471c63d0d0b3007946deaa033d"
+    },
+    {
+      "path": "2025_04_11/001/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "e944640867be1bb0e83ad7915e86e5f626d1348c880b74149c5426a1d2575e1c"
+    },
+    {
+      "path": "2025_04_11/001/Video_data.csv",
+      "size_bytes": 10790,
+      "sha256": "f273e678f06e3388282db0c8587b59be44b700e5290c6de265736e9505bc321f"
+    },
+    {
+      "path": "2025_04_11/001/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "e940a3f8fe829ee6031a14697c3b429785c0e27cd271587732d72e7e20329941"
+    },
+    {
+      "path": "2025_04_11/001/application.log",
+      "size_bytes": 9140,
+      "sha256": "52006ec1836b14da3eb2075f051f68efa9c2fd91d167f8a6f2833d060a271fb1"
+    },
+    {
+      "path": "2025_04_11/001/default0.cal",
+      "size_bytes": 873,
+      "sha256": "518f257a356f9b776bf4173a82da755080172b663e59b5b4467d6ed98150c323"
+    },
+    {
+      "path": "2025_04_11/001/ext_display_acc_video.avi",
+      "size_bytes": 2541104,
+      "sha256": "27784418d25826b31eaf0f1af5b959f50cd4375be49868cd4332136d450a2c8f"
+    },
+    {
+      "path": "2025_04_11/003/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "635aef795c1d6b0b5d1bcc3aed88a2e69e439f2aac5be80ae6296c416251fb45"
+    },
+    {
+      "path": "2025_04_11/003/GP3HD_data.csv",
+      "size_bytes": 262297,
+      "sha256": "a7939f4c5eb5b1ec09717b71e8130d425ff0548bdeeda5371555f960239efddb"
+    },
+    {
+      "path": "2025_04_11/003/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "cad559922ad410347d06a8ca1b6bc3b7425249198a23d9f8d9d55c3d5c8253eb"
+    },
+    {
+      "path": "2025_04_11/003/Video_data.csv",
+      "size_bytes": 15036,
+      "sha256": "3c5e96de1e660caad4960565915d4de5e3d1db3f81729e5a0d0bbbda44cade6b"
+    },
+    {
+      "path": "2025_04_11/003/acc_marker_external.csv",
+      "size_bytes": 1036,
+      "sha256": "0078e27714e27bbac70466c6e6929089d65cb92a5e9d0a8bb6af50e2b2a548b9"
+    },
+    {
+      "path": "2025_04_11/003/application.log",
+      "size_bytes": 9527,
+      "sha256": "b4ef835deea25c12f53ce329a0dd0d239debbadd7c1c6adc243938ea0b29cbb3"
+    },
+    {
+      "path": "2025_04_11/003/ext_display_acc_video.avi",
+      "size_bytes": 3857230,
+      "sha256": "3c9bcf06161f800ff1acba07e6549181c376acd7c269142af8449aab198aa155"
+    },
+    {
+      "path": "2025_04_11/004/GP3HD_data.csv",
+      "size_bytes": 317739,
+      "sha256": "591e51c384dfc669b81235b8303559f85132118ec6c4bd0e443a7a629f9a5b1f"
+    },
+    {
+      "path": "2025_04_11/004/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "0dca1687700f0113ef7bfe83b79037adfc8715208619b3bdc968a0fc48bf9c5b"
+    },
+    {
+      "path": "2025_04_11/004/Video_data.csv",
+      "size_bytes": 11430,
+      "sha256": "7a076af8fd852fd93ecd58919663960d597da722e108095159c7973892c33afb"
+    },
+    {
+      "path": "2025_04_11/004/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "3defebcb4acb3291409aa31a8948b1795e2828725f7af43f4e2068b43cf78f55"
+    },
+    {
+      "path": "2025_04_11/004/application.log",
+      "size_bytes": 9140,
+      "sha256": "099e9ad52fe646414adb47db28067d1384c0362da07ee3a802ff6e56055332da"
+    },
+    {
+      "path": "2025_04_11/004/default0.cal",
+      "size_bytes": 873,
+      "sha256": "518f257a356f9b776bf4173a82da755080172b663e59b5b4467d6ed98150c323"
+    },
+    {
+      "path": "2025_04_11/004/ext_display_acc_video.avi",
+      "size_bytes": 2572098,
+      "sha256": "5aa8012381c84ca5045549997e7c37cd795f1c5b372d012f375c2e152c8d4d5e"
+    },
+    {
+      "path": "2025_04_11/005/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "df94fedaa26affcb9a98345ccde7cb9ea02dec455fe294db3a8a1b5e1d7428c3"
+    },
+    {
+      "path": "2025_04_11/005/GP3HD_data.csv",
+      "size_bytes": 262120,
+      "sha256": "f1e5a1763266b93dedcfda226912ade6a3f2f03cba7395e29a4d6a60dae7e13b"
+    },
+    {
+      "path": "2025_04_11/005/Recording_info.csv",
+      "size_bytes": 322,
+      "sha256": "42e6e184758c619cc5d0672983ad196362ad14f4da02f9bfc2e2b45ea77aaa60"
+    },
+    {
+      "path": "2025_04_11/005/Video_data.csv",
+      "size_bytes": 14288,
+      "sha256": "72b3167cb13089e286423f9c9160c539a5ed56ed135c0361a3db75e2acbb868d"
+    },
+    {
+      "path": "2025_04_11/005/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "8078b143f4ea4762f38761dc8abeb0b4f0d7477645aa6d79e61ca7efedb49169"
+    },
+    {
+      "path": "2025_04_11/005/application.log",
+      "size_bytes": 9632,
+      "sha256": "c9815cea3a4e1c9ba8ab357fd1e5bb3104e3f81141794f529de1f4275653ee68"
+    },
+    {
+      "path": "2025_04_11/005/ext_display_acc_video.avi",
+      "size_bytes": 3654056,
+      "sha256": "7fa3434917d916d2a1c8ea7103e1fc2bd7db6237b329c6820a638654d50b60ca"
+    },
+    {
+      "path": "2025_04_11/006/GP3HD_data.csv",
+      "size_bytes": 309435,
+      "sha256": "cdb771a22235ae09b7ff84f2cb1e10c7ec912c38da9d1445d44f74d3b107f3d7"
+    },
+    {
+      "path": "2025_04_11/006/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "b26e918c89919c2a5a103297618c536bf65b309de81ca277209dc6aca968508e"
+    },
+    {
+      "path": "2025_04_11/006/Video_data.csv",
+      "size_bytes": 11141,
+      "sha256": "391469933ce13a605b15da7650c91e1fcc6f4258acce636ce2cabea18a611ac5"
+    },
+    {
+      "path": "2025_04_11/006/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "27102ec97e62839a6b7568d69141313579a87597d11a74ebbabb1cef735ac0a1"
+    },
+    {
+      "path": "2025_04_11/006/application.log",
+      "size_bytes": 9140,
+      "sha256": "d7c2d33fcd3e118368160ba2d366fb075a5ad62e2d8c88b6b3dec243e5328ff7"
+    },
+    {
+      "path": "2025_04_11/006/default0.cal",
+      "size_bytes": 873,
+      "sha256": "042d5f978a99b8d067808dcf81b147056cd6a40df3ff0a1aaefae4fcaa98253e"
+    },
+    {
+      "path": "2025_04_11/006/ext_display_acc_video.avi",
+      "size_bytes": 2601742,
+      "sha256": "0dd2dee184dc660cf3d641dd4233c1d23b8e32e7d456877bcda26d51f6e5f749"
+    },
+    {
+      "path": "2025_04_11/007/GP3HD_data.csv",
+      "size_bytes": 317467,
+      "sha256": "e49540047eed798834c96f559f16bb58763e35ee4982561bb930937ea5924cd6"
+    },
+    {
+      "path": "2025_04_11/007/Video_data.csv",
+      "size_bytes": 11406,
+      "sha256": "56a2e2f244c2957461360b925560775ab97fb814e396d050c24ae754120a0d5b"
+    },
+    {
+      "path": "2025_04_11/007/acc_marker_external.csv",
+      "size_bytes": 1046,
+      "sha256": "211fbe7ecbfcf4a0dbb4cf5f364356089447c51f5244ecc2ceb8b7d37c74ee2d"
+    },
+    {
+      "path": "2025_04_11/007/application.log",
+      "size_bytes": 9140,
+      "sha256": "7f701fbc17f69bf35b536f73aeb9488fa4a475fb842d42d6e2123ba4893b9449"
+    },
+    {
+      "path": "2025_04_11/007/default0.cal",
+      "size_bytes": 873,
+      "sha256": "518f257a356f9b776bf4173a82da755080172b663e59b5b4467d6ed98150c323"
+    },
+    {
+      "path": "2025_04_11/007/ext_display_acc_video.avi",
+      "size_bytes": 2563590,
+      "sha256": "0a98bc952e87c660772319046fd6d2e6646f47cb1ed50642f96ed7e10a130ad6"
+    },
+    {
+      "path": "2025_04_11/008/GP3HD_data.csv",
+      "size_bytes": 301950,
+      "sha256": "2899be6efaefe198ab9b0caf86ab6c1b975838157872096a62fb1e1faed5b91c"
+    },
+    {
+      "path": "2025_04_11/008/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "1ee95f17b53e98e08f3527365d14fd044c6a7800f1fca6518590fd13796aa2be"
+    },
+    {
+      "path": "2025_04_11/008/Video_data.csv",
+      "size_bytes": 10844,
+      "sha256": "d078d137e31e36d6fcaf20f6370c8727735c6d5c9058525ec4c65eace0663e17"
+    },
+    {
+      "path": "2025_04_11/008/acc_marker_external.csv",
+      "size_bytes": 1043,
+      "sha256": "55806833ae40ac1ba7906093acba22a2247fe6ddc71737e5ce61bf6209efbee5"
+    },
+    {
+      "path": "2025_04_11/008/application.log",
+      "size_bytes": 9140,
+      "sha256": "c029f8882d5d530b11bb940cfa97808ead6ef2afe7faba141413a1e798e7a343"
+    },
+    {
+      "path": "2025_04_11/008/default0.cal",
+      "size_bytes": 873,
+      "sha256": "518f257a356f9b776bf4173a82da755080172b663e59b5b4467d6ed98150c323"
+    },
+    {
+      "path": "2025_04_11/008/ext_display_acc_video.avi",
+      "size_bytes": 2448188,
+      "sha256": "79518e9e2ad24b8495a8bbd792c11e2b8143aa9676ae69b6af9ed9899b3c92c1"
+    },
+    {
+      "path": "2025_04_11/009/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "6c9a1667baee995a21578b479e67abec2aeecc25a085c42f16da5fa075282057"
+    },
+    {
+      "path": "2025_04_11/009/GP3HD_data.csv",
+      "size_bytes": 262225,
+      "sha256": "df9bc97bc99d5f7e65191002e8c716acf032de5417bb37a1f85358c91e86c376"
+    },
+    {
+      "path": "2025_04_11/009/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "9d929532c3e8f520fe6efd0952fbf9fec5050c90d2fc2b933a7a5e46631ea7c8"
+    },
+    {
+      "path": "2025_04_11/009/Video_data.csv",
+      "size_bytes": 13560,
+      "sha256": "6bf4981bdbea061aab806408d082b2fcc0dcb40f9c4ed41cd510bf1c2b817cc1"
+    },
+    {
+      "path": "2025_04_11/009/acc_marker_external.csv",
+      "size_bytes": 1034,
+      "sha256": "2189338f768ece4071824de3602635227625efd60808938978dd3205c822a7de"
+    },
+    {
+      "path": "2025_04_11/009/application.log",
+      "size_bytes": 9632,
+      "sha256": "8d6b8c528508ca589b338ab8f2a6f01af809abf054f0b6b240a316beac12f280"
+    },
+    {
+      "path": "2025_04_11/009/ext_display_acc_video.avi",
+      "size_bytes": 3385980,
+      "sha256": "fcf0f206407bfc66d37503fbec1b386668ad28b09cd6e23ee31d0f8f0c08d11e"
+    },
+    {
+      "path": "2025_04_11/010/GP3HD_data.csv",
+      "size_bytes": 304810,
+      "sha256": "a0d38d0bdf4c4be05cf91587b4f3ebbc5464ab7a7c336d9fb423d1b2b9e01f4b"
+    },
+    {
+      "path": "2025_04_11/010/Recording_info.csv",
+      "size_bytes": 260,
+      "sha256": "e66d93fbcfdc91cf6fe5a749c767a3b1a410635b648953f304c7bb180313f3c5"
+    },
+    {
+      "path": "2025_04_11/010/Video_data.csv",
+      "size_bytes": 10968,
+      "sha256": "2a150ba158de21b26268ab5aa191ce338fdd2e7b0cd9650feea6863409a3267e"
+    },
+    {
+      "path": "2025_04_11/010/acc_marker_external.csv",
+      "size_bytes": 1038,
+      "sha256": "f739bb27b1f67b91062e8ca1b409552200e27074ff5c9c7b3fcc73ffc811fd41"
+    },
+    {
+      "path": "2025_04_11/010/application.log",
+      "size_bytes": 9140,
+      "sha256": "b804f8155e0574674644f6ca1ce514951276dea6df514087664c64467ec0569a"
+    },
+    {
+      "path": "2025_04_11/010/default0.cal",
+      "size_bytes": 852,
+      "sha256": "904666d1f1bfd38959e1f0372ae13fb19ddd6d50049a499bfb63654e38a6fab8"
+    },
+    {
+      "path": "2025_04_11/010/ext_display_acc_video.avi",
+      "size_bytes": 2573580,
+      "sha256": "741c2ca934ecf7ae572b8bd7cb9beed0ceb0493c9ba4b987751eb4b27eb0faf1"
+    },
+    {
+      "path": "2025_04_11/011/GP3HD_data.csv",
+      "size_bytes": 295816,
+      "sha256": "1f08295879524b369abe57e3a797edac49bf4906c3ad7a057ce39a134dada9d8"
+    },
+    {
+      "path": "2025_04_11/011/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "ecece91387fc17ab83f2876b968050df51dd16385afe8c707543802ca2aacd75"
+    },
+    {
+      "path": "2025_04_11/011/Video_data.csv",
+      "size_bytes": 10677,
+      "sha256": "8344300f290f09917fa08683ea2dcd9929cb89f8c972608427c5d0436db40ca5"
+    },
+    {
+      "path": "2025_04_11/011/acc_marker_external.csv",
+      "size_bytes": 1039,
+      "sha256": "2bee6725a2d4a6798b8b0e5676a22653d58fc46a32fac3aa37233c39f6c3a713"
+    },
+    {
+      "path": "2025_04_11/011/application.log",
+      "size_bytes": 9140,
+      "sha256": "6532e39ee20630eae1ab272c31a259874ac0af39d83abdc7a373b6700e941c67"
+    },
+    {
+      "path": "2025_04_11/011/default0.cal",
+      "size_bytes": 873,
+      "sha256": "042d5f978a99b8d067808dcf81b147056cd6a40df3ff0a1aaefae4fcaa98253e"
+    },
+    {
+      "path": "2025_04_11/011/ext_display_acc_video.avi",
+      "size_bytes": 2352992,
+      "sha256": "bed97125a6529e1c9cde4358fd7a04ea1dcf14732531ea0b26d0684b171271b7"
+    },
+    {
+      "path": "2025_04_11/012/GP3HD_data.csv",
+      "size_bytes": 306978,
+      "sha256": "eb372349430a8ea4781b221381ef65e200695377f88710341de5af40401ce7e1"
+    },
+    {
+      "path": "2025_04_11/012/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "49208ec73c2506ebd71eaf7528c781d2b5eb178f3de106a1729d038a4c9beee1"
+    },
+    {
+      "path": "2025_04_11/012/Video_data.csv",
+      "size_bytes": 11072,
+      "sha256": "f56ccb2309f25f60f513d42a0b1b8b07acfcf23adad980a3178f1de8cca5e4f2"
+    },
+    {
+      "path": "2025_04_11/012/acc_marker_external.csv",
+      "size_bytes": 1036,
+      "sha256": "8aaf3340b7102025a5b6149da0771c882f63dbfd56967c04a5e85896b4ec33e3"
+    },
+    {
+      "path": "2025_04_11/012/application.log",
+      "size_bytes": 9140,
+      "sha256": "5f1e6df1abe7a1db662c9834986b999a7241d7ba42c473235b23103762ff465c"
+    },
+    {
+      "path": "2025_04_11/012/default0.cal",
+      "size_bytes": 852,
+      "sha256": "904666d1f1bfd38959e1f0372ae13fb19ddd6d50049a499bfb63654e38a6fab8"
+    },
+    {
+      "path": "2025_04_11/012/ext_display_acc_video.avi",
+      "size_bytes": 2468540,
+      "sha256": "a4c9b995be11222a8d6f665bb5a0557b2409addcb35b0febcb76c25f5bce9712"
+    },
+    {
+      "path": "2025_04_12/001/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "b8101750f9384f93e83752ba152edec4937df240cdee2bab818d08bcf426dd25"
+    },
+    {
+      "path": "2025_04_12/001/GP3HD_data.csv",
+      "size_bytes": 262203,
+      "sha256": "ba74a95b62368c4a896776c49a701a44ba71744a1e7ba9b03c9c6fdc6c8c6761"
+    },
+    {
+      "path": "2025_04_12/001/Recording_info.csv",
+      "size_bytes": 324,
+      "sha256": "710f1cb0111d49b7c86d87d53a18c517e13b592843c5177696b89f6c009b9ae2"
+    },
+    {
+      "path": "2025_04_12/001/Video_data.csv",
+      "size_bytes": 112128,
+      "sha256": "6158da8743819c27e1c5dd4f6f3bbea05a0f693cfd7d689edfe57485b490d1c7"
+    },
+    {
+      "path": "2025_04_12/001/acc_marker_external.csv",
+      "size_bytes": 1043,
+      "sha256": "a87887327a4f2b100a2b9cf451e665c3620f60d592ff63c503ca0d211887bfca"
+    },
+    {
+      "path": "2025_04_12/001/application.log",
+      "size_bytes": 9632,
+      "sha256": "ce183b95f22f769dcf8df215fbfbd73b1bcefcc24e5924c452182b341529f609"
+    },
+    {
+      "path": "2025_04_12/001/ext_display_acc_video.avi",
+      "size_bytes": 23594836,
+      "sha256": "bcfaff5752517eb55f628bb3285d2f2d52617b1673e0e285f67d33bdca08cb4f"
+    },
+    {
+      "path": "2025_04_12/002/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "3f516f0e2424e8a8a9ad84b6155a02e699b6befd60463a1bf8930e34d64bd0b4"
+    },
+    {
+      "path": "2025_04_12/002/GP3HD_data.csv",
+      "size_bytes": 261863,
+      "sha256": "b4fc3ef419ee2cd60921c3d2574caa2f225a616fecda290fc88facd0c50fc0dc"
+    },
+    {
+      "path": "2025_04_12/002/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "bec07cf8c7a9a8405c6548bc9daa52722a5ce9daac30e019a660f89b4fb8bb8e"
+    },
+    {
+      "path": "2025_04_12/002/Video_data.csv",
+      "size_bytes": 94273,
+      "sha256": "b78cd86930f1b08bef0dcc07eae047abcb345f21201c7f14c56bbf24a2fde83c"
+    },
+    {
+      "path": "2025_04_12/002/acc_marker_external.csv",
+      "size_bytes": 1041,
+      "sha256": "281db40e10f353242ad09837c79818d50f4eb6529ae33242a9a27b517ee2a942"
+    },
+    {
+      "path": "2025_04_12/002/application.log",
+      "size_bytes": 9632,
+      "sha256": "3b36a86dd988075dd40ca33bf0da19f89f38e1932d39f1591d7c983abee30082"
+    },
+    {
+      "path": "2025_04_12/002/ext_display_acc_video.avi",
+      "size_bytes": 19729124,
+      "sha256": "e9fd8a2b9b9b12e1b89837b4db1f364f04e9ae2a078f14dd7eafe28af3a7fa5e"
+    },
+    {
+      "path": "2025_04_12/003/GP3HD_data.csv",
+      "size_bytes": 291434,
+      "sha256": "24251634eec817872bcf16c26036153aa5baa7a0dd4516303495841f3ff8ca22"
+    },
+    {
+      "path": "2025_04_12/003/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "9ed3861a1122e85ea8a638200106547d7cbb4b729c6cb8c989a353720605ae8a"
+    },
+    {
+      "path": "2025_04_12/003/Video_data.csv",
+      "size_bytes": 65600,
+      "sha256": "f2d2beac6645c1dae3570a0d05967763b8b4054e7cad0a298e004b370684ae45"
+    },
+    {
+      "path": "2025_04_12/003/acc_marker_external.csv",
+      "size_bytes": 1046,
+      "sha256": "6264d8dca63740e6425221a31294a1d20ec7ade00ed94b8471cadf64eff8e1fc"
+    },
+    {
+      "path": "2025_04_12/003/application.log",
+      "size_bytes": 9140,
+      "sha256": "ffd6d4ebe4ee851c812f71d63bba90bb827f99f61cd79f83e084a17bbfa927c2"
+    },
+    {
+      "path": "2025_04_12/003/default0.cal",
+      "size_bytes": 873,
+      "sha256": "42295bdc042a22dba5b3a0d4aa91e1605fb582ff5e8f13ae3deb43a066cbeaf9"
+    },
+    {
+      "path": "2025_04_12/003/ext_display_acc_video.avi",
+      "size_bytes": 11694472,
+      "sha256": "403890ce955364161c99b9b2f284923dd02176595d6988d62e84ede105fd85c0"
+    },
+    {
+      "path": "2025_04_12/004/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "47182a3a9fd93e67dbcce95172ab4657d41f19db6b3d5cca304f5e63541515e7"
+    },
+    {
+      "path": "2025_04_12/004/GP3HD_data.csv",
+      "size_bytes": 261988,
+      "sha256": "0b638a4fd68664ace8fc5dba8734826173abe8e2685c6dabfa8a77a565578b5c"
+    },
+    {
+      "path": "2025_04_12/004/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "23e0813f9f36988369936848573c7a5e15023fdbb421242487b473631808393e"
+    },
+    {
+      "path": "2025_04_12/004/Video_data.csv",
+      "size_bytes": 82563,
+      "sha256": "a70b31e3948a5b70e431b81315fbe701e509dba287749aa9a96417ce02bf2e70"
+    },
+    {
+      "path": "2025_04_12/004/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "4029322668088cc1c22d0020bbbf9dd275a36b0d65adfb83d12e343ca0bf13f1"
+    },
+    {
+      "path": "2025_04_12/004/application.log",
+      "size_bytes": 9632,
+      "sha256": "362bdf72ab67c750bdd401b4f8955f01ad113694c32f717d642dc5f52e12be1c"
+    },
+    {
+      "path": "2025_04_12/004/ext_display_acc_video.avi",
+      "size_bytes": 15914614,
+      "sha256": "c4a173572cfc255e54f73651a806d25e91ebea4aa40ab5bc91a7af3117efd198"
+    },
+    {
+      "path": "2025_04_12/005/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "353d3bb64c20fb24ee37c810d28e8ae61ad979f904561e1f4e1eb915b570011a"
+    },
+    {
+      "path": "2025_04_12/005/GP3HD_data.csv",
+      "size_bytes": 262400,
+      "sha256": "e68b718197a604ff6e581eb13e004c6499741b115a3f9119940a856d68257cd0"
+    },
+    {
+      "path": "2025_04_12/005/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "cf3db2e26fea5162a2a487cdc0959455763f2cacb13ddbca5c5cbd9a2ffa8303"
+    },
+    {
+      "path": "2025_04_12/005/Video_data.csv",
+      "size_bytes": 83577,
+      "sha256": "b56e26556591b67e8d7b6f1ac70a490fc8eb4244f15d1e5fedce06fe6b57260f"
+    },
+    {
+      "path": "2025_04_12/005/acc_marker_external.csv",
+      "size_bytes": 1038,
+      "sha256": "f8e832e10e3ba09a00c9156cab0ee7af66781f0c1454626e62b3a8dbdc41c0e5"
+    },
+    {
+      "path": "2025_04_12/005/application.log",
+      "size_bytes": 9632,
+      "sha256": "cf6e5a6ee93127281615f6cdbfe9a2b4cc8957fecae084df543170209ae81e79"
+    },
+    {
+      "path": "2025_04_12/005/ext_display_acc_video.avi",
+      "size_bytes": 16055192,
+      "sha256": "0be2f25429961d709fc3fcd96bf550be3bcdfa379b0e1ecd80c3e64e66eef444"
+    },
+    {
+      "path": "2025_04_12/008/GP3HD_data.csv",
+      "size_bytes": 293241,
+      "sha256": "0a6f051a5f2869c16d4d85ed65ec275b116a3cd7f8076478f9e78897f8baf6a9"
+    },
+    {
+      "path": "2025_04_12/008/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "2e550ccf113aefb91125dbe4c364de838aea0366a50bbf0f09f52af4f0ef8462"
+    },
+    {
+      "path": "2025_04_12/008/Video_data.csv",
+      "size_bytes": 65719,
+      "sha256": "53fe60ccb57383acbffe8d567521a0ae773e2a3c85e2fc858f0d88489d469418"
+    },
+    {
+      "path": "2025_04_12/008/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "3bd4d1566b629972d2915ea07f7ebd7202e2068dcc89d8923f11ea8e810911b3"
+    },
+    {
+      "path": "2025_04_12/008/application.log",
+      "size_bytes": 9140,
+      "sha256": "a045db6e94afc7408d470c1ded272c9a5e947267809808dd942b2cd11d856398"
+    },
+    {
+      "path": "2025_04_12/008/default0.cal",
+      "size_bytes": 854,
+      "sha256": "36ac49957bd1e5366e6df5150c37e68aa497fb97d6116af1492127e59f2d611d"
+    },
+    {
+      "path": "2025_04_12/008/ext_display_acc_video.avi",
+      "size_bytes": 11769816,
+      "sha256": "14e32b0b2484e5b0eb2734de09398bbf4c777dead0464c9b8b682053b8f48ca6"
+    },
+    {
+      "path": "2025_04_12/011/GP3HD_data.csv",
+      "size_bytes": 297741,
+      "sha256": "0b40cbf0c66a98b4894dcf04d710d0c71e94be1aa1533a55ab49c5ecb5b64b4d"
+    },
+    {
+      "path": "2025_04_12/011/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "e5d5e2198eb08fd8842facfb4a8c75ea8d876a15f4fd8b2e7deec3ad5304f0ad"
+    },
+    {
+      "path": "2025_04_12/011/Video_data.csv",
+      "size_bytes": 66689,
+      "sha256": "f0c8c7b3011ae8daf8b3f87d34cbf6a8e3cffd1fd081106a1efd946d87544963"
+    },
+    {
+      "path": "2025_04_12/011/acc_marker_external.csv",
+      "size_bytes": 1031,
+      "sha256": "e7c3125c97c6d6c00f24dd4e0998679e29cdaa64039dda041ddd5c4e6f8ffe6e"
+    },
+    {
+      "path": "2025_04_12/011/application.log",
+      "size_bytes": 9140,
+      "sha256": "cd66314c11dfafc8efd3aa186b38e8f3e030664f0b60565defc87901c1493653"
+    },
+    {
+      "path": "2025_04_12/011/default0.cal",
+      "size_bytes": 873,
+      "sha256": "42295bdc042a22dba5b3a0d4aa91e1605fb582ff5e8f13ae3deb43a066cbeaf9"
+    },
+    {
+      "path": "2025_04_12/011/ext_display_acc_video.avi",
+      "size_bytes": 11965518,
+      "sha256": "5a378a7f2a93a36cb58b0ead4400c6cf7c437ddceb52f6bd545f2d451b8c88b6"
+    },
+    {
+      "path": "2025_04_12/012/GP3HD_data.csv",
+      "size_bytes": 286359,
+      "sha256": "0d8080ec27c82863ff99233d072b1bed4fceaa3b445f48f56eb2f6f9a6a2fc1f"
+    },
+    {
+      "path": "2025_04_12/012/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "3b56bdd48778e3e681c6d61ae14f37afd8bea8836dab52b418bd8e80f3587ba6"
+    },
+    {
+      "path": "2025_04_12/012/Video_data.csv",
+      "size_bytes": 64180,
+      "sha256": "304d22cafaf5d6790f8ac63bd0c053647c33da5596ee28f72a3d861a6616cfe6"
+    },
+    {
+      "path": "2025_04_12/012/acc_marker_external.csv",
+      "size_bytes": 1051,
+      "sha256": "07d1a8f32f10cb58c2e6e1706b69b3d63b1a1fdf988e4a376c20bc910d86ad31"
+    },
+    {
+      "path": "2025_04_12/012/application.log",
+      "size_bytes": 9140,
+      "sha256": "06c8013f15422985015b99428392094a36b5a62973c8fc3e54a534e9afb0e604"
+    },
+    {
+      "path": "2025_04_12/012/default0.cal",
+      "size_bytes": 837,
+      "sha256": "6c28935ba7e0537af28ea632fee67bcf04d94628450025bd671a0526022a427f"
+    },
+    {
+      "path": "2025_04_12/012/ext_display_acc_video.avi",
+      "size_bytes": 11307238,
+      "sha256": "1d8661e15732768ef98af7bf9c802d456634f4aebb55cb37821d1547e8ac6098"
+    },
+    {
+      "path": "2025_04_12/013/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "c127d1cc6e5dfdf39f920d1ff095fd0c167b7380c989a490a3ecda7a83664501"
+    },
+    {
+      "path": "2025_04_12/013/GP3HD_data.csv",
+      "size_bytes": 261976,
+      "sha256": "8eec8eb4139044b4464cc34736072f0dfec572abf719be717ffecbcbb9ab331f"
+    },
+    {
+      "path": "2025_04_12/013/Recording_info.csv",
+      "size_bytes": 323,
+      "sha256": "2d8050e1c58700e330ad458ec09b54fa90daba3685b4ec9b4118487a5d7dee10"
+    },
+    {
+      "path": "2025_04_12/013/Video_data.csv",
+      "size_bytes": 83310,
+      "sha256": "642f030b3e2ec80ee891f89f3d6986ee3785ee848f26b6d3b0b5877d90892af4"
+    },
+    {
+      "path": "2025_04_12/013/acc_marker_external.csv",
+      "size_bytes": 1041,
+      "sha256": "410adf900049f8d9ffb5969c52bec1d160f678b936500da2f220827f958975d0"
+    },
+    {
+      "path": "2025_04_12/013/application.log",
+      "size_bytes": 9632,
+      "sha256": "c89c406e47b69a47e958e2039be08fc141a2a7e7e30418f1830ff21835edd8d6"
+    },
+    {
+      "path": "2025_04_12/013/ext_display_acc_video.avi",
+      "size_bytes": 16209876,
+      "sha256": "e1425b5197f5b48165110ea079333fa08829c71edf83d35577c9c121aef3d4be"
+    },
+    {
+      "path": "2025_04_12/014/GP3HD_data.csv",
+      "size_bytes": 285504,
+      "sha256": "26ae895902c13517653538f2cee88978389a7eec86ff3e526e15536134e3c8ea"
+    },
+    {
+      "path": "2025_04_12/014/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "a993d750d2c14b88bb280600c5b1a753018ea2005992ae4d1a0786e17c930cf4"
+    },
+    {
+      "path": "2025_04_12/014/Video_data.csv",
+      "size_bytes": 64030,
+      "sha256": "1a8700185b71726f12e3ce003314321d93916e3b94561d482ec0119a6db32659"
+    },
+    {
+      "path": "2025_04_12/014/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "3680d109e2a1185fa1a9ff711c5af737b531f6c64345e29b75c9f2152dc977c1"
+    },
+    {
+      "path": "2025_04_12/014/application.log",
+      "size_bytes": 9140,
+      "sha256": "bfe87e76e13b065349792b1648784d0bac75a6eb60d705133ce99ad532dba333"
+    },
+    {
+      "path": "2025_04_12/014/default0.cal",
+      "size_bytes": 837,
+      "sha256": "6c28935ba7e0537af28ea632fee67bcf04d94628450025bd671a0526022a427f"
+    },
+    {
+      "path": "2025_04_12/014/ext_display_acc_video.avi",
+      "size_bytes": 11232046,
+      "sha256": "da47e193b326d7ab1dc6eeee512810fa67bb927825ecb5d27198fc99637f2257"
+    },
+    {
+      "path": "2025_04_12/015/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "ecb24d53a115fa215c3871483f7a5c5cae3f41d08734d00d834fcc518390ca90"
+    },
+    {
+      "path": "2025_04_12/015/GP3HD_data.csv",
+      "size_bytes": 262453,
+      "sha256": "9900e1a193acb00ef0fd9eba7b9a0d63c905a104fbdcb87f82e4cc55af01a03c"
+    },
+    {
+      "path": "2025_04_12/015/Recording_info.csv",
+      "size_bytes": 320,
+      "sha256": "03c5205f157762f551fcb2aa20d1cad9b990a2b146702c4624dd36ceda3c482f"
+    },
+    {
+      "path": "2025_04_12/015/Video_data.csv",
+      "size_bytes": 81422,
+      "sha256": "9e9eb98adc35828dfb09e3f90461b053b04400bc5c6c78a0e91a61de7deeeb95"
+    },
+    {
+      "path": "2025_04_12/015/acc_marker_external.csv",
+      "size_bytes": 1040,
+      "sha256": "53814158be163197a3c3690dacf47a7b35702540473a310be76e482fe294a72c"
+    },
+    {
+      "path": "2025_04_12/015/application.log",
+      "size_bytes": 9632,
+      "sha256": "1e5865db6afe61782bd7d3150c29b0ed459d128136c02781d80be286d5ea3f23"
+    },
+    {
+      "path": "2025_04_12/015/ext_display_acc_video.avi",
+      "size_bytes": 15569492,
+      "sha256": "6ffe81bdd4c7daec909ab54bbcf30526ac32c37fa4b14a77c01448be189c25cf"
+    },
+    {
+      "path": "2025_04_12/016/GP3HD_data.csv",
+      "size_bytes": 292397,
+      "sha256": "a8b8eeddfe4f0237c11474316c46766360c6a2db056541aad02b87bf3667c2f2"
+    },
+    {
+      "path": "2025_04_12/016/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "84f624b4cb1b0601162546088f16b6b01d5e0218f6e6cdecfb8f8b774a994581"
+    },
+    {
+      "path": "2025_04_12/016/Video_data.csv",
+      "size_bytes": 65303,
+      "sha256": "0421049f87db1aeca7486cb8f1fdbea11c7ac12aeb345cfa3c0e1f2e017cf130"
+    },
+    {
+      "path": "2025_04_12/016/acc_marker_external.csv",
+      "size_bytes": 1036,
+      "sha256": "aaeb632ce495b225895e94d0692b218612b27f7f3e6599f17131757a9d0c13a7"
+    },
+    {
+      "path": "2025_04_12/016/application.log",
+      "size_bytes": 9140,
+      "sha256": "df18c7deccb73f75b089ad41cbbc3c521858c8610583b4e574112b60a523ed24"
+    },
+    {
+      "path": "2025_04_12/016/default0.cal",
+      "size_bytes": 854,
+      "sha256": "36ac49957bd1e5366e6df5150c37e68aa497fb97d6116af1492127e59f2d611d"
+    },
+    {
+      "path": "2025_04_12/016/ext_display_acc_video.avi",
+      "size_bytes": 11568968,
+      "sha256": "459c6f4cf0f9bb991716f1a1d271f454c87c9d06fd30175850de57dda1d41c3a"
+    },
+    {
+      "path": "2025_04_12/017/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "9ceec9387e3805ae5e06966c6c866661b9bf28e18eb462a70a53221781ecadd8"
+    },
+    {
+      "path": "2025_04_12/017/GP3HD_data.csv",
+      "size_bytes": 261874,
+      "sha256": "d6d73c75aedcc8bc7e229a4e2bc67f2d3ad2a05373ac8d524cb1687e8645becd"
+    },
+    {
+      "path": "2025_04_12/017/Recording_info.csv",
+      "size_bytes": 320,
+      "sha256": "c517495485ecd08a39e504c124eded3628bce80a38e0675de8578a606e481323"
+    },
+    {
+      "path": "2025_04_12/017/Video_data.csv",
+      "size_bytes": 82243,
+      "sha256": "96a218e3735c7eebbcb167f9dd07f74094717c3ce93642f02f0fcae188b55e3c"
+    },
+    {
+      "path": "2025_04_12/017/acc_marker_external.csv",
+      "size_bytes": 1039,
+      "sha256": "737043543c046271708de0c11c2966c7bac30465af0c99ddd42c0890fc165423"
+    },
+    {
+      "path": "2025_04_12/017/application.log",
+      "size_bytes": 9632,
+      "sha256": "c1c618450ff45733e7d984aebf7ae51b835ec397df625f53e683fef2d62ec973"
+    },
+    {
+      "path": "2025_04_12/017/ext_display_acc_video.avi",
+      "size_bytes": 15829362,
+      "sha256": "f4a4276f0a62bcbff75be27b701071b5a9886fef480996cefc1cdaed16d70c85"
+    },
+    {
+      "path": "2025_04_12/018/GP3HD_data.csv",
+      "size_bytes": 292934,
+      "sha256": "3549f15dce331e35de295be69681741b650febd075d175da5d51343991e00a2f"
+    },
+    {
+      "path": "2025_04_12/018/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "0cfc84e6158d2d6b9566461d9179b46e46a8e52f38100f4dcb138d351a5e10c8"
+    },
+    {
+      "path": "2025_04_12/018/Video_data.csv",
+      "size_bytes": 65665,
+      "sha256": "d12642b5abef2eeeb0f1857e9e26d637362872adc7a3846f1258f340c0414cb4"
+    },
+    {
+      "path": "2025_04_12/018/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "340d0e6645aa894af059d1f53b9f0e081af316c6d8809742d78cfd73cc149d98"
+    },
+    {
+      "path": "2025_04_12/018/application.log",
+      "size_bytes": 9140,
+      "sha256": "bd776e670a6860439f76f53818b5a32dcc6b3eb8a08c36932951bef4d31a2634"
+    },
+    {
+      "path": "2025_04_12/018/default0.cal",
+      "size_bytes": 875,
+      "sha256": "9a3ecf703cab72884aeca4c3a5b4274c42556b4d40f661f33512137b16bfa393"
+    },
+    {
+      "path": "2025_04_12/018/ext_display_acc_video.avi",
+      "size_bytes": 11657978,
+      "sha256": "f4fc0bee3a823c8a7141078b6e3b2fb237f7d7058b271d6ea4fe98c2f4dc0cd7"
+    },
+    {
+      "path": "2025_04_12/019/GP3HD_data.csv",
+      "size_bytes": 295292,
+      "sha256": "364dce0cb9c530c7e041df698ecc5f992b3064ada64c71d5443d2a2378580470"
+    },
+    {
+      "path": "2025_04_12/019/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "1957f90895bc3e9e1adbcb4a31763af36a0e34201c30922d739a6f53237613e9"
+    },
+    {
+      "path": "2025_04_12/019/Video_data.csv",
+      "size_bytes": 66119,
+      "sha256": "2143e3e74b2571a1ca225097b4b9bfa870da69e4d2cf639fff3d297906358cd6"
+    },
+    {
+      "path": "2025_04_12/019/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "fa025f73eb1596668ce208350f78d6c07a9e9127dfe33b584a453380157819fb"
+    },
+    {
+      "path": "2025_04_12/019/application.log",
+      "size_bytes": 9140,
+      "sha256": "9fa60e90f1d6ad9911173a7b46cd7754e53d3142c62a65156ffed3f08cfb3ccf"
+    },
+    {
+      "path": "2025_04_12/019/default0.cal",
+      "size_bytes": 876,
+      "sha256": "1778cc9b05ba4e3a1da288f0d90cde2d6a04d4063605c0c0d6ec1ed140ee4a07"
+    },
+    {
+      "path": "2025_04_12/019/ext_display_acc_video.avi",
+      "size_bytes": 11889150,
+      "sha256": "3f69e71f517d8dd47e5818ccdbf248c4b1dfcd6fc2943984551901e3371e68c4"
+    },
+    {
+      "path": "2025_04_12/020/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "5c3f3decf85c242a6c63bb850b262ef95e0ee073e39928a2cf0a0de193525b84"
+    },
+    {
+      "path": "2025_04_12/020/GP3HD_data.csv",
+      "size_bytes": 261840,
+      "sha256": "d72cb76e1a4827c742367cd6321309312a6ac0ec1df74acc03ed0c36389a7e5c"
+    },
+    {
+      "path": "2025_04_12/020/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "068ba70013c214aae9b16f07121e81b78e9fbf54df0c01bd3820dde74f5b42e3"
+    },
+    {
+      "path": "2025_04_12/020/Video_data.csv",
+      "size_bytes": 82924,
+      "sha256": "1f4f332bba8bea61f9add990c002315d59507b98c706c5457bd018d7c740f07f"
+    },
+    {
+      "path": "2025_04_12/020/acc_marker_external.csv",
+      "size_bytes": 1046,
+      "sha256": "e583e5c6575ec13e43fe66be2aacfc60521c3522653b5daf63903d3392a98460"
+    },
+    {
+      "path": "2025_04_12/020/application.log",
+      "size_bytes": 9632,
+      "sha256": "280a782de6c34833056e36480b2b5c340ffc806c856a6ce14ea836b3d0b88032"
+    },
+    {
+      "path": "2025_04_12/020/ext_display_acc_video.avi",
+      "size_bytes": 15914570,
+      "sha256": "0f15bc661cbb82fe9fa8e999aef197bdb12a8b0eac78ae3c8587f8439d819738"
+    },
+    {
+      "path": "2025_04_12/021/GP3HD_data.csv",
+      "size_bytes": 291084,
+      "sha256": "70e84ccc5c6d3d24283c93cfe27991c45b75de54f76c16fde83d73742690cd2b"
+    },
+    {
+      "path": "2025_04_12/021/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "6bec775c6ce2be75a7049989b7ee3043b612e0cd04ace99a09535273e0022328"
+    },
+    {
+      "path": "2025_04_12/021/Video_data.csv",
+      "size_bytes": 65186,
+      "sha256": "2ea666dadd4a85a8cd927508dae2dcaddfa6c7295317a7f0d949cbf7151fadd0"
+    },
+    {
+      "path": "2025_04_12/021/acc_marker_external.csv",
+      "size_bytes": 1037,
+      "sha256": "bdb402902551d3a718302a5f8ecf7073f372f6160ec91cadf312d3baf9b27b56"
+    },
+    {
+      "path": "2025_04_12/021/application.log",
+      "size_bytes": 9140,
+      "sha256": "5dfe029fce6c21f3e25b73de18284dd3e35de91864c0610fb993dc67641d65a7"
+    },
+    {
+      "path": "2025_04_12/021/default0.cal",
+      "size_bytes": 631,
+      "sha256": "4058267eccc2aa882a90a8c888f599bc094b54fdcc88a02dd2e3b820cb3dde19"
+    },
+    {
+      "path": "2025_04_12/021/ext_display_acc_video.avi",
+      "size_bytes": 11547250,
+      "sha256": "5d44ec42e5f9d56341dc58c11264d441ca4201931bb0e72efc9673f3cd47ed47"
+    },
+    {
+      "path": "2025_04_12/022/GP3HD_data.csv",
+      "size_bytes": 282237,
+      "sha256": "cbaaa4e4fbeb5c0d16605a71b27052f363d9ea25cdfd520600c31d86e095df8f"
+    },
+    {
+      "path": "2025_04_12/022/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "934d06d11c6584d5322845b53e5a0fe9c030ecb0cb9db5375ec50963cb9b4be6"
+    },
+    {
+      "path": "2025_04_12/022/Video_data.csv",
+      "size_bytes": 63045,
+      "sha256": "c021fd46fe5ef932895b356a7f775c78412baf207822bdc6323e646e27db88ab"
+    },
+    {
+      "path": "2025_04_12/022/acc_marker_external.csv",
+      "size_bytes": 1044,
+      "sha256": "6d34d1f9d2d751fe3b5cdc54347deaa9807d4ec746f835fe4cc3cf859ac01ec4"
+    },
+    {
+      "path": "2025_04_12/022/application.log",
+      "size_bytes": 9140,
+      "sha256": "c4e99c9e74d3dc99301c0fc2cbff14c687065124b4d195ef9ea0c04ed75fb4f0"
+    },
+    {
+      "path": "2025_04_12/022/default0.cal",
+      "size_bytes": 631,
+      "sha256": "4058267eccc2aa882a90a8c888f599bc094b54fdcc88a02dd2e3b820cb3dde19"
+    },
+    {
+      "path": "2025_04_12/022/ext_display_acc_video.avi",
+      "size_bytes": 10959788,
+      "sha256": "2e8250aff87768d5e88fa5fb0dba62c31eb6804364047d832cc19dba71242832"
+    },
+    {
+      "path": "2025_04_12/023/GP3HD_data.csv",
+      "size_bytes": 270943,
+      "sha256": "f4a41fa8a05b95c5ebb36c3f8d18d314d500cc1bad4903495b2c7f0aeddfbe8b"
+    },
+    {
+      "path": "2025_04_12/023/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "838d1c0ed6e17be12956a587348cfe9dc70b914c923dc3bf04d75ff730cd99ee"
+    },
+    {
+      "path": "2025_04_12/023/Video_data.csv",
+      "size_bytes": 60691,
+      "sha256": "359df19fda1ce5d265a59b555ab58a70619770e1d8d004069188df4bb6c61cd6"
+    },
+    {
+      "path": "2025_04_12/023/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "cdaa60780988197b08292e2bbd5d2704acf34b9c6a56266380acb52cb09fb7b8"
+    },
+    {
+      "path": "2025_04_12/023/application.log",
+      "size_bytes": 9140,
+      "sha256": "a3cafe96e730712e0f8523eb713f8c862b1e01a61ec4933b9b2e76b9cba21c4e"
+    },
+    {
+      "path": "2025_04_12/023/default0.cal",
+      "size_bytes": 875,
+      "sha256": "9a3ecf703cab72884aeca4c3a5b4274c42556b4d40f661f33512137b16bfa393"
+    },
+    {
+      "path": "2025_04_12/023/ext_display_acc_video.avi",
+      "size_bytes": 10379446,
+      "sha256": "0032e7f4ef547ed47f2190c19cb1c7082718e3915830a607d147150b27086156"
+    },
+    {
+      "path": "2025_04_12/024/GP3HD_data.csv",
+      "size_bytes": 291305,
+      "sha256": "bfa587bc5e7ee07dd217701dec611b81f1d8802dcdf63588c227d7d2246340b1"
+    },
+    {
+      "path": "2025_04_12/024/Recording_info.csv",
+      "size_bytes": 260,
+      "sha256": "afd7487ff9490089d1ec033626e184f5508638cf1def0bedef4ddd6577f75407"
+    },
+    {
+      "path": "2025_04_12/024/Video_data.csv",
+      "size_bytes": 65439,
+      "sha256": "8ab2b5f705bc3c442ec18018348c4f8c9dd879fdf3b05a0731006a1477238f49"
+    },
+    {
+      "path": "2025_04_12/024/acc_marker_external.csv",
+      "size_bytes": 1035,
+      "sha256": "a57eafbffc59b3f745df6eb12d01a2ee207cda524251a44b0596fb274c694f8a"
+    },
+    {
+      "path": "2025_04_12/024/application.log",
+      "size_bytes": 9140,
+      "sha256": "bba0a3fa96b0d094ae2c2280e2f7a1b8c7519a077e353a9d1adb61fbf3377154"
+    },
+    {
+      "path": "2025_04_12/024/default0.cal",
+      "size_bytes": 872,
+      "sha256": "2fd975625667b19b631e363f833958a4c1c57938ac4cd321385015604326b751"
+    },
+    {
+      "path": "2025_04_12/024/ext_display_acc_video.avi",
+      "size_bytes": 11639864,
+      "sha256": "00b6653b39dbd81a47ad3ae8177a48fa4e4c9afd3ae66420605bb650f5a21fe9"
+    },
+    {
+      "path": "2025_04_12/025/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "b8cebb02eeeb45d7d572ffd5c4a9e708e787485e6c5ab7f683ee80a2a2005c8b"
+    },
+    {
+      "path": "2025_04_12/025/GP3HD_data.csv",
+      "size_bytes": 262001,
+      "sha256": "6c2d6d2c971683d03e8dfb6f803529cc48689f71aa70cae5aa8d69be25d7f992"
+    },
+    {
+      "path": "2025_04_12/025/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "5d18c0fd83c47d32cd2fb00178dec20efc2a4b9e3b6a9775a88538c0ec34214f"
+    },
+    {
+      "path": "2025_04_12/025/Video_data.csv",
+      "size_bytes": 84678,
+      "sha256": "9133c0fbbe8ba3354f0cc2f47572b9ef6a62c8e1b5b1933ba5190d5fdb40afd9"
+    },
+    {
+      "path": "2025_04_12/025/acc_marker_external.csv",
+      "size_bytes": 1046,
+      "sha256": "2aa6b2f52b4d30e0fb146a5b82c19628b2bbaf3e781d0e8d5425e5f21961a5a2"
+    },
+    {
+      "path": "2025_04_12/025/application.log",
+      "size_bytes": 9632,
+      "sha256": "40f51bed9a1a4590e1fa9467812956985aba8933b1aeef63741f5f7157cf8f97"
+    },
+    {
+      "path": "2025_04_12/025/ext_display_acc_video.avi",
+      "size_bytes": 16316674,
+      "sha256": "9d5fc986830de89eea53656e6e887407e01359397dbf30e30678941b621013dd"
+    },
+    {
+      "path": "2025_04_12/026/Calibration_info.txt",
+      "size_bytes": 1324,
+      "sha256": "4f298e44a14da4da6964156f79d0cce1886513c6903bd0ff3d5d93266a99459d"
+    },
+    {
+      "path": "2025_04_12/026/GP3HD_data.csv",
+      "size_bytes": 261984,
+      "sha256": "4a89905dbd9632267f02e289c57b1d985277f34a090564f70ea728ab7a555c83"
+    },
+    {
+      "path": "2025_04_12/026/Recording_info.csv",
+      "size_bytes": 321,
+      "sha256": "0f80b33ce9c6da9783b318e2083492ee9eea9ab13ff52545180b36f5832e7ef8"
+    },
+    {
+      "path": "2025_04_12/026/Video_data.csv",
+      "size_bytes": 78255,
+      "sha256": "eabdb45be2566f5d4797656b485c22645a7b1afedd2584d3d4f32bc8eb61becc"
+    },
+    {
+      "path": "2025_04_12/026/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "ac0ae3821fca598efb987860760ef339d410522102106aa5082f4c71af3ea437"
+    },
+    {
+      "path": "2025_04_12/026/application.log",
+      "size_bytes": 9632,
+      "sha256": "e885642e1d59eb043fdd2ec7b82ed0ff7312584b2acc0b61eb852bf1685173aa"
+    },
+    {
+      "path": "2025_04_12/026/ext_display_acc_video.avi",
+      "size_bytes": 14523658,
+      "sha256": "7f3b2e01233700279e13e151ed368b59d7dbd52c7716063ef123fcdf06e4a893"
+    },
+    {
+      "path": "2025_04_12/027/GP3HD_data.csv",
+      "size_bytes": 295978,
+      "sha256": "6f726c8a96f3128d68fdd51736194e701ccd582bdfb27ac0a1f21634ca6012f0"
+    },
+    {
+      "path": "2025_04_12/027/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "d6c4bad9969df0be8ba4714536ecf0a3f80b141a7336bae4c66c0a8da37edcef"
+    },
+    {
+      "path": "2025_04_12/027/Video_data.csv",
+      "size_bytes": 66319,
+      "sha256": "1eb2afe453d267fa53b7266f419a2ca7ae84b1e62a7b9f4bb002b2fbe2ec5e65"
+    },
+    {
+      "path": "2025_04_12/027/acc_marker_external.csv",
+      "size_bytes": 1042,
+      "sha256": "de67a8396ae7baf3ca853e0f2b47b9e7ca5fcb3ba0799774c3a7ac78db1013fa"
+    },
+    {
+      "path": "2025_04_12/027/application.log",
+      "size_bytes": 9140,
+      "sha256": "3150547febf4037aea8891c00eb7f4306273cc48d7fceeaf01c1582b858b1739"
+    },
+    {
+      "path": "2025_04_12/027/default0.cal",
+      "size_bytes": 876,
+      "sha256": "1778cc9b05ba4e3a1da288f0d90cde2d6a04d4063605c0c0d6ec1ed140ee4a07"
+    },
+    {
+      "path": "2025_04_12/027/ext_display_acc_video.avi",
+      "size_bytes": 11912230,
+      "sha256": "bdfcf8ed08c65fe3e29434424cd5191e6a99c3738a96a1b9dea153ea7844af1c"
+    },
+    {
+      "path": "2025_04_12/028/GP3HD_data.csv",
+      "size_bytes": 290864,
+      "sha256": "e57d2b8e7765291aa132bfae8987084b28b1425b23f0c4c45e1b4ec32c389660"
+    },
+    {
+      "path": "2025_04_12/028/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "8881d3756eac11ced64ddf9e8893142ea3074899017a198d4765adeff73b3575"
+    },
+    {
+      "path": "2025_04_12/028/Video_data.csv",
+      "size_bytes": 65106,
+      "sha256": "a1cb86c495661148e82fb19151ccd62001b48bb819c7edf7048300fe9775c714"
+    },
+    {
+      "path": "2025_04_12/028/acc_marker_external.csv",
+      "size_bytes": 1038,
+      "sha256": "88d33b198921ef4f199f15da0edf889784b4499817304c3af13d4187e3e46a03"
+    },
+    {
+      "path": "2025_04_12/028/application.log",
+      "size_bytes": 9140,
+      "sha256": "c2d3179c13f87753d470b5825698739e204017cc5cbc973119fad9a7e164cb08"
+    },
+    {
+      "path": "2025_04_12/028/default0.cal",
+      "size_bytes": 872,
+      "sha256": "50fc41d9bcbcc83df7ce7ee0202c81d194716286308aaf0e09632806f2064097"
+    },
+    {
+      "path": "2025_04_12/028/ext_display_acc_video.avi",
+      "size_bytes": 11562116,
+      "sha256": "beb7df0262f5dc62a7d8e9d59bc84a42faceaf757fdee9fc2d62833d3896e6d0"
+    },
+    {
+      "path": "2025_04_12/029/GP3HD_data.csv",
+      "size_bytes": 314366,
+      "sha256": "fc8535087b60f61ca1bd7bdc81f94d8e61b94ae1c839b707d2d55174ba984b0f"
+    },
+    {
+      "path": "2025_04_12/029/Recording_info.csv",
+      "size_bytes": 261,
+      "sha256": "14b874a40a31ab04df935432c77aa8e65c5774d724232657f96c6c2ff3783728"
+    },
+    {
+      "path": "2025_04_12/029/Video_data.csv",
+      "size_bytes": 16,
+      "sha256": "36b7b80ef19d881bb756a7798697e366cf9b62661337ba945f1595355ab29306"
+    },
+    {
+      "path": "2025_04_12/029/application.log",
+      "size_bytes": 2392,
+      "sha256": "0515472303c2b306306b6b9c23b315fd14a0c126db46e2df54da0b6647063241"
+    },
+    {
+      "path": "2025_04_12/029/default0.cal",
+      "size_bytes": 872,
+      "sha256": "2fd975625667b19b631e363f833958a4c1c57938ac4cd321385015604326b751"
+    },
+    {
+      "path": "2025_04_12/029/ext_display_acc_video.avi",
+      "size_bytes": 5686,
+      "sha256": "03a70ccd5bdcc24deb0081a98380b48910b22c3a7b668660492f3c90d0c6314b"
+    },
+    {
+      "path": "2025_04_12/030/GP3HD_data.csv",
+      "size_bytes": 288677,
+      "sha256": "d5144e21b44fccd2d4270a7247e99a93ace0d6a26c1253d6d0f4003964b2487c"
+    },
+    {
+      "path": "2025_04_12/030/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "aad961d0560a2ac040455abc13770e066b6169c2c52d1253bee2af12bdec2622"
+    },
+    {
+      "path": "2025_04_12/030/Video_data.csv",
+      "size_bytes": 64703,
+      "sha256": "ae16957609c268e9eb49126b8c1044600603bb3d742f0b947e471beba6313c3a"
+    },
+    {
+      "path": "2025_04_12/030/acc_marker_external.csv",
+      "size_bytes": 1035,
+      "sha256": "34f374106d3e4bbbf36292053511f62a105c39c80fdee82982f08e5e1daa8529"
+    },
+    {
+      "path": "2025_04_12/030/application.log",
+      "size_bytes": 9140,
+      "sha256": "5f11fa7ecb5d37877c55337e937c49194d883bd501a3c503d7f652fd9c9d162a"
+    },
+    {
+      "path": "2025_04_12/030/default0.cal",
+      "size_bytes": 857,
+      "sha256": "3b327a833df6fa6179e94f0487824a90a53efa22885dc5585fc2b5fa31f54575"
+    },
+    {
+      "path": "2025_04_12/030/ext_display_acc_video.avi",
+      "size_bytes": 11448390,
+      "sha256": "f5c30b9079054723d65da034a2dc3fe61440e7ed490fe09d3eb5aad130f62357"
+    },
+    {
+      "path": "2025_04_12/031/GP3HD_data.csv",
+      "size_bytes": 288983,
+      "sha256": "a8095fd2cd696700efe8bee3251ac3ac0781e3f525e915eeb65628e4210567db"
+    },
+    {
+      "path": "2025_04_12/031/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "3d353cb4d7585eed54be7fe63ae2caf1d645b31d5e8495ebe7ccf4c530b2259e"
+    },
+    {
+      "path": "2025_04_12/031/Video_data.csv",
+      "size_bytes": 64749,
+      "sha256": "9a45b53bca14f5990df0a93b8b1a043798230a174a224b37ac8d0fc8ab96f3e5"
+    },
+    {
+      "path": "2025_04_12/031/acc_marker_external.csv",
+      "size_bytes": 1039,
+      "sha256": "40f37c047c34ffe6edf30213715c55750ef709cb3c186c77a22ab73b27b822b1"
+    },
+    {
+      "path": "2025_04_12/031/application.log",
+      "size_bytes": 9140,
+      "sha256": "e3ddf2fce2f3a707eee5b38032a3a8c89824216316ea9029d58a5d8fa10ad763"
+    },
+    {
+      "path": "2025_04_12/031/default0.cal",
+      "size_bytes": 857,
+      "sha256": "3b327a833df6fa6179e94f0487824a90a53efa22885dc5585fc2b5fa31f54575"
+    },
+    {
+      "path": "2025_04_12/031/ext_display_acc_video.avi",
+      "size_bytes": 11478814,
+      "sha256": "8d96b22de5e4515de0b422757a6cc7a8577973506f9ccc3148e5a1bdf1914f19"
+    },
+    {
+      "path": "2025_04_12/032/GP3HD_data.csv",
+      "size_bytes": 289734,
+      "sha256": "426a1cf3a1f155c78e4cc29b002cbd87fd0c5d4263ecf787887e7548e69c3298"
+    },
+    {
+      "path": "2025_04_12/032/Recording_info.csv",
+      "size_bytes": 262,
+      "sha256": "32c4bad39f190ce788c134801df3460d0298a32c249c86d25b0d7a6b64658d0d"
+    },
+    {
+      "path": "2025_04_12/032/Video_data.csv",
+      "size_bytes": 64927,
+      "sha256": "52326a29d9f6f31b017fd4f882fefacade7d70199e74e1f94ae88af84a1931a2"
+    },
+    {
+      "path": "2025_04_12/032/acc_marker_external.csv",
+      "size_bytes": 1040,
+      "sha256": "66b91e846f736bc9b6f477ed9805c8d9fdd06b38059c77b43f8d04bef61f4939"
+    },
+    {
+      "path": "2025_04_12/032/application.log",
+      "size_bytes": 9140,
+      "sha256": "2bbdd1d4fcb1a0718aa59dc83205ca807dd829d61ecadbc34763ee833ded4772"
+    },
+    {
+      "path": "2025_04_12/032/default0.cal",
+      "size_bytes": 872,
+      "sha256": "50fc41d9bcbcc83df7ce7ee0202c81d194716286308aaf0e09632806f2064097"
+    },
+    {
+      "path": "2025_04_12/032/ext_display_acc_video.avi",
+      "size_bytes": 11493928,
+      "sha256": "dadbd461b70b2436cd60701fedd7642d9715e392386e9d5e9322d98f15a3f55b"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "raw_data_policy": "Raw analysis files are retained unchanged alongside these presentation tables.",
+  "conversions": {
+    "*_pct": "source proportion multiplied by 100",
+    "*_pct_display_width": "normalised horizontal coordinate or error multiplied by 100",
+    "*_pct_display_height": "normalised vertical coordinate or error multiplied by 100",
+    "*_relative_coordinate_pct": "normalised radial coordinate distance multiplied by 100; 100% = 1.0 raw unit",
+    "*_deg": "visual-angle degrees, present only when physical display geometry and viewing distance are recorded"
+  }
+}

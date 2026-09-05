@@ -1,0 +1,9 @@
+reference_item,paper_criterion,current_application,status
+Calibration sample volume and confidence,>150 high-quality samples; marker and gaze-coordinate confidence >=0.8.,Not directly assessed: the dataset does not record a high-quality calibration-sample count and confidence threshold.,not_comparable
+Calibration mapping accuracy,Device-reported mapping accuracy <=1.5 degrees.,0/40 sessions provide a degree-labelled calibration error; the limit is applied only when units match.,conditional
+Target settling window,Exclude the first 0.6 s after target onset before accuracy analysis.,A 0.600 s settling window is recorded and applied to marker and target metrics.,applied
+Tracking reliability confidence,Use gaze samples with reliability confidence >0.8.,"Not directly transferable: GP3 valid/invalid flags are used, but they are not assumed to equal the paper's confidence score.",not_comparable
+Samples per target,The paper reports >100 high-confidence measurements per target after settling.,0/995 analysed target intervals retain >100 valid samples after settling; valid/invalid flags are not treated as vendor confidence.,observational_check
+Blink/unreliable-time context,The paper treats roughly 3-5% overall time as an expected upper range for blink/unreliable data.,"OpenET2 reports valid rate and estimated data-loss rate, but does not use 3-5% as a universal GP3 pass/fail limit.",reference_only
+Coefficient of repeatability,1.96 x within-participant SD of OMAE for matched repeated visits.,0 matched repeated participant/device/test groups are available; no paper-specific OMAE CoR is claimed without matched target visits.,conditional
+Inferential statistics,5% significance; participant random-intercept LMM with Satterthwaite degrees of freedom and Bonferroni correction.,Descriptive benchmarking only. The model is intentionally not fitted unless participant identities and genuinely matched repeated visits are available.,not_run

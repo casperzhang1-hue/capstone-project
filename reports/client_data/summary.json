@@ -1,0 +1,43 @@
+{
+  "session_count": 40,
+  "successful_sessions": 40,
+  "failed_sessions": 0,
+  "date_count": 2,
+  "device_count": 1,
+  "devices": [
+    "GP3"
+  ],
+  "median_sampling_hz": 61.3343214862893,
+  "median_valid_rate": 0.780109405435248,
+  "sessions_with_warnings": 40,
+  "target_interval_observations": 995,
+  "target_visit_observations": 348,
+  "target_settle_time_s": 0.6,
+  "target_settle_excluded_valid_samples": 28393,
+  "video_target_recovery_enabled": true,
+  "video_target_recovered_sessions": 39,
+  "video_target_recovered_intervals": 1053,
+  "angular_target_figures_available": false,
+  "normalised_target_figures_available": true,
+  "target_visualisation_unit": "normalised_screen_fraction",
+  "paper_aligned_figures_available": true,
+  "client_delay_evidence_included": true,
+  "input_provenance_file": "input_provenance.json",
+  "input_file_count": 278,
+  "input_hash_error_count": 0,
+  "input_content_digest_sha256": "c4536dfdb17be8c1c78d34766e62719d5f096640c3d5dcc97ba9172ffec56864",
+  "runtime_environment": {
+    "python_version": "3.14.6",
+    "python_implementation": "CPython",
+    "operating_system": "Windows",
+    "platform_release": "11",
+    "machine": "AMD64",
+    "packages": {
+      "numpy": "2.5.1",
+      "pandas": "3.0.3",
+      "matplotlib": "3.11.0",
+      "seaborn": "0.13.2",
+      "opencv_python": "5.0.0.93"
+    }
+  }
+}
