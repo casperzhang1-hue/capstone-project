@@ -1,0 +1,4 @@
+date,device_id,test_id,test_condition,session_count,subject_count,repeated_subject_count,median_sampling_hz,median_valid_gaze_samples_pct,median_data_loss_pct,median_marker_precision_relative_coordinate_pct,median_marker_accuracy_relative_coordinate_pct,sessions_with_warnings,sampling_change_pct_from_baseline,valid_rate_change_points_from_baseline
+2026_01_01,SYNTHETIC_GP3,Synthetic longitudinal accuracy,synthetic_standard,1,1,1,60.0,98.99197695947336,1.0080230405266406,0.5619544566199233,0.22871206330957963,0,0.0,0.0
+2026_01_08,SYNTHETIC_GP3,Synthetic longitudinal accuracy,synthetic_standard,1,1,1,60.0,98.99197695947336,1.0080230405266406,0.6295338071432657,0.4090179747942314,0,0.0,0.0
+2026_01_15,SYNTHETIC_GP3,Synthetic longitudinal accuracy,synthetic_standard,1,1,1,60.0,98.99197695947336,1.0080230405266406,0.6997105174565783,0.5987864490142584,0,0.0,0.0

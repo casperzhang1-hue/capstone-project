@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2026_01_01",
+    "device_id": "SYNTHETIC_GP3",
+    "test_id": "Synthetic longitudinal accuracy",
+    "test_condition": "synthetic_standard",
+    "session_count": 1,
+    "subject_count": 1,
+    "repeated_subject_count": 1,
+    "median_sampling_hz": 60.0,
+    "median_valid_gaze_samples_pct": 98.9919769595,
+    "median_data_loss_pct": 1.0080230405,
+    "median_marker_precision_relative_coordinate_pct": 0.5619544566,
+    "median_marker_accuracy_relative_coordinate_pct": 0.2287120633,
+    "sessions_with_warnings": 0,
+    "sampling_change_pct_from_baseline": 0.0,
+    "valid_rate_change_points_from_baseline": 0.0
+  },
+  {
+    "date": "2026_01_08",
+    "device_id": "SYNTHETIC_GP3",
+    "test_id": "Synthetic longitudinal accuracy",
+    "test_condition": "synthetic_standard",
+    "session_count": 1,
+    "subject_count": 1,
+    "repeated_subject_count": 1,
+    "median_sampling_hz": 60.0,
+    "median_valid_gaze_samples_pct": 98.9919769595,
+    "median_data_loss_pct": 1.0080230405,
+    "median_marker_precision_relative_coordinate_pct": 0.6295338071,
+    "median_marker_accuracy_relative_coordinate_pct": 0.4090179748,
+    "sessions_with_warnings": 0,
+    "sampling_change_pct_from_baseline": 0.0,
+    "valid_rate_change_points_from_baseline": 0.0
+  },
+  {
+    "date": "2026_01_15",
+    "device_id": "SYNTHETIC_GP3",
+    "test_id": "Synthetic longitudinal accuracy",
+    "test_condition": "synthetic_standard",
+    "session_count": 1,
+    "subject_count": 1,
+    "repeated_subject_count": 1,
+    "median_sampling_hz": 60.0,
+    "median_valid_gaze_samples_pct": 98.9919769595,
+    "median_data_loss_pct": 1.0080230405,
+    "median_marker_precision_relative_coordinate_pct": 0.6997105175,
+    "median_marker_accuracy_relative_coordinate_pct": 0.598786449,
+    "sessions_with_warnings": 0,
+    "sampling_change_pct_from_baseline": 0.0,
+    "valid_rate_change_points_from_baseline": 0.0
+  }
+]

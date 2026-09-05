@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "openet2_version": "1.6.0",
+  "generated_utc": "2026-07-27T22:29:11.624779+00:00",
+  "data_root": "openet2://input",
+  "hash_algorithm": "sha256",
+  "file_count": 28,
+  "hash_error_count": 0,
+  "content_digest_sha256": "9779461a21bcfad0e296c11ab9b5d5492232664f9cfd714dbf212bdfa9984866",
+  "files": [
+    {
+      "path": "2026_01_01/000/Calibration_info.txt",
+      "size_bytes": 295,
+      "sha256": "3f87be9a49c08176d4b4a582b03ca18cabe1837774810e812281a31499a902ea"
+    },
+    {
+      "path": "2026_01_01/000/GP3HD_data.csv",
+      "size_bytes": 314773,
+      "sha256": "e87fb6c848cbfb0f2534d19e66cad18d826bd02bb3385852f0b69b2be00c9540"
+    },
+    {
+      "path": "2026_01_01/000/Recording_info.csv",
+      "size_bytes": 1225,
+      "sha256": "aa3da02facd2547f105d33ca90a6d686101c3fd89fce044cd834ad014ffc00b8"
+    },
+    {
+      "path": "2026_01_01/000/Video_data.csv",
+      "size_bytes": 48009,
+      "sha256": "21c675a488f1c3d8a1e59c4536f30524591ae87c0b2f04cf3dc44ce63ca2080d"
+    },
+    {
+      "path": "2026_01_01/000/application.log",
+      "size_bytes": 50,
+      "sha256": "31e209b2fee68999efcfb1fcdc0b300e777308a3e51638a2df3d76d64a796220"
+    },
+    {
+      "path": "2026_01_01/000/calibration_summary.json",
+      "size_bytes": 295,
+      "sha256": "3f87be9a49c08176d4b4a582b03ca18cabe1837774810e812281a31499a902ea"
+    },
+    {
+      "path": "2026_01_01/000/marker_data.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_01/000/marker_plan.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_01/000/session_metadata.json",
+      "size_bytes": 1514,
+      "sha256": "8e9ffb028783cd2f066f28e1d6fe3c2ea1a92a002deb26be5ea46b3419ca7374"
+    },
+    {
+      "path": "2026_01_08/000/Calibration_info.txt",
+      "size_bytes": 311,
+      "sha256": "4b45e6f172a91aa20e38e40d22d1fb69f649d2937ca5923a4b4214792097b32c"
+    },
+    {
+      "path": "2026_01_08/000/GP3HD_data.csv",
+      "size_bytes": 314749,
+      "sha256": "48f24b2fa5ddadb9671c85a1682eaf21d438cc4cbe1cb70be1b0425920c6eced"
+    },
+    {
+      "path": "2026_01_08/000/Recording_info.csv",
+      "size_bytes": 1241,
+      "sha256": "8d220ef8608345032aa15007b6fad0a9fc1afaf37df0c6d49705a705a3cef7c1"
+    },
+    {
+      "path": "2026_01_08/000/Video_data.csv",
+      "size_bytes": 48009,
+      "sha256": "21c675a488f1c3d8a1e59c4536f30524591ae87c0b2f04cf3dc44ce63ca2080d"
+    },
+    {
+      "path": "2026_01_08/000/application.log",
+      "size_bytes": 50,
+      "sha256": "31e209b2fee68999efcfb1fcdc0b300e777308a3e51638a2df3d76d64a796220"
+    },
+    {
+      "path": "2026_01_08/000/calibration_summary.json",
+      "size_bytes": 311,
+      "sha256": "4b45e6f172a91aa20e38e40d22d1fb69f649d2937ca5923a4b4214792097b32c"
+    },
+    {
+      "path": "2026_01_08/000/marker_data.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_08/000/marker_plan.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_08/000/session_metadata.json",
+      "size_bytes": 1530,
+      "sha256": "979461176e555ec0d29a53972e7f9f33beddb83a087d667bb7e67a3ccc6acf78"
+    },
+    {
+      "path": "2026_01_15/000/Calibration_info.txt",
+      "size_bytes": 296,
+      "sha256": "2550697cfd335ee9f4fa232a63d2cd34a7e5aa2b09d998b817a8390cf64d0725"
+    },
+    {
+      "path": "2026_01_15/000/GP3HD_data.csv",
+      "size_bytes": 314768,
+      "sha256": "55af70a0b5832a719dcd01b67383e51faaed3ed8a5d7cec75d2192be0e176435"
+    },
+    {
+      "path": "2026_01_15/000/Recording_info.csv",
+      "size_bytes": 1226,
+      "sha256": "199ac175ec627802cc69ecf4b30ec1c50e47df3d2b29c733e373d479556449b8"
+    },
+    {
+      "path": "2026_01_15/000/Video_data.csv",
+      "size_bytes": 48009,
+      "sha256": "21c675a488f1c3d8a1e59c4536f30524591ae87c0b2f04cf3dc44ce63ca2080d"
+    },
+    {
+      "path": "2026_01_15/000/application.log",
+      "size_bytes": 50,
+      "sha256": "31e209b2fee68999efcfb1fcdc0b300e777308a3e51638a2df3d76d64a796220"
+    },
+    {
+      "path": "2026_01_15/000/calibration_summary.json",
+      "size_bytes": 296,
+      "sha256": "2550697cfd335ee9f4fa232a63d2cd34a7e5aa2b09d998b817a8390cf64d0725"
+    },
+    {
+      "path": "2026_01_15/000/marker_data.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_15/000/marker_plan.csv",
+      "size_bytes": 2776,
+      "sha256": "0e2a21a4b4c78bdb6579191cf201b77b326a4febdef5a66c12cf60dedd4afc49"
+    },
+    {
+      "path": "2026_01_15/000/session_metadata.json",
+      "size_bytes": 1515,
+      "sha256": "badf26e5e56e470ba5ae6848c1c4d7b31490e512503b308a6afdb2c3a1d91316"
+    },
+    {
+      "path": "SYNTHETIC_DATASET.json",
+      "size_bytes": 299,
+      "sha256": "ad3cb9199faf6f3f6a9e17c93198b43ca30019a8e32bd464e055c4d48d778bed"
+    }
+  ]
+}

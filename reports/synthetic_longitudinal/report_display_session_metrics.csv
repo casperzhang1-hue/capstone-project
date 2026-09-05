@@ -1,0 +1,4 @@
+session_id,date,subject_id,device_id,test_id,quality_status,coordinate_space,effective_sampling_hz,valid_gaze_samples_pct,data_loss_pct,marker_precision_relative_coordinate_pct,marker_accuracy_relative_coordinate_pct,target_recovery_status,recovered_target_intervals,target_settle_time_s,quality_flags
+2026_01_01/000,2026_01_01,SYNTHETIC_P01,SYNTHETIC_GP3,Synthetic longitudinal accuracy,pass,normalised,60.0,98.99197695947336,1.0080230405266406,0.5619544566199233,0.22871206330957963,,,0.6,ok
+2026_01_08/000,2026_01_08,SYNTHETIC_P01,SYNTHETIC_GP3,Synthetic longitudinal accuracy,pass,normalised,60.0,98.99197695947336,1.0080230405266406,0.6295338071432657,0.4090179747942314,,,0.6,ok
+2026_01_15/000,2026_01_15,SYNTHETIC_P01,SYNTHETIC_GP3,Synthetic longitudinal accuracy,pass,normalised,60.0,98.99197695947336,1.0080230405266406,0.6997105174565783,0.5987864490142584,,,0.6,ok

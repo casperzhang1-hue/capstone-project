@@ -1,0 +1,2 @@
+subject_id,device_id,test_id,test_condition,session_count,date_count,median_sampling_hz,sampling_hz_range,sampling_hz_repeatability_95,median_valid_rate,valid_rate_range,valid_rate_repeatability_95,median_marker_precision_rms,precision_range,precision_repeatability_95
+SYNTHETIC_P01,SYNTHETIC_GP3,Synthetic longitudinal accuracy,synthetic_standard,3,3,60.0,0.0,0.0,0.9899197695947336,0.0,0.0,0.006295338071432657,0.0013775606083665506,0.0019093147151104592

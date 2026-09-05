@@ -1,0 +1,4 @@
+session_id,quality_status,valid_rate,data_loss_rate,estimated_missing_samples,longest_gap_s,duplicate_timestamps,negative_time_jumps,irregular_interval_pct,missing_coordinate_samples,out_of_bounds_samples,out_of_bounds_rate,marker_events,marker_coverage_rate,target_settle_time_s,marker_settle_excluded_samples,metadata_missing_fields,metadata_conflict_count,metadata_conflict_fields,metadata_read_error,duration_mismatch_fraction,quality_flags
+2026_01_01/000,pass,0.9899197695947336,0.010080230405266406,0,0.01666666666667993,0,0,0.0,0,0,0.0,27,1.0,0.6,962.0,0,0,,,0.0,ok
+2026_01_08/000,pass,0.9899197695947336,0.010080230405266406,0,0.01666666666667993,0,0,0.0,0,0,0.0,27,1.0,0.6,962.0,0,0,,,0.0,ok
+2026_01_15/000,pass,0.9899197695947336,0.010080230405266406,0,0.01666666666667993,0,0,0.0,0,0,0.0,27,1.0,0.6,962.0,0,0,,,0.0,ok

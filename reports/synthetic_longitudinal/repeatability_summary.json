@@ -1,0 +1,19 @@
+[
+  {
+    "subject_id": "SYNTHETIC_P01",
+    "device_id": "SYNTHETIC_GP3",
+    "test_id": "Synthetic longitudinal accuracy",
+    "test_condition": "synthetic_standard",
+    "session_count": 3,
+    "date_count": 3,
+    "median_sampling_hz": 60.0,
+    "sampling_hz_range": 0.0,
+    "sampling_hz_repeatability_95": 0.0,
+    "median_valid_rate": 0.9899197696,
+    "valid_rate_range": 0.0,
+    "valid_rate_repeatability_95": 0.0,
+    "median_marker_precision_rms": 0.0062953381,
+    "precision_range": 0.0013775606,
+    "precision_repeatability_95": 0.0019093147
+  }
+]
