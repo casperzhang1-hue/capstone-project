@@ -1,0 +1,52 @@
+name: openet2-v16
+
+services:
+  report:
+    image: openet2:1.6.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime
+    entrypoint: ["python", "-m", "http.server"]
+    command: ["8080", "--bind", "0.0.0.0", "--directory", "/site"]
+    ports:
+      - "${OPENET2_REPORT_PORT:-8080}:8080"
+    volumes:
+      - type: bind
+        source: ${OPENET2_REPORT_ROOT:-.}
+        target: /site
+        read_only: true
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/', timeout=3)"
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  analysis:
+    image: openet2:1.6.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime
+    profiles: ["analysis"]
+    volumes:
+      - type: bind
+        source: ${OPENET2_DATA_ROOT:-./examples/synthetic_longitudinal_data}
+        target: /data
+        read_only: true
+      - type: bind
+        source: ${OPENET2_OUTPUT_ROOT:-./outputs}
+        target: /output
+
+  test:
+    image: openet2-test:1.6.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: test
+    profiles: ["test"]

@@ -1,0 +1,6 @@
+-r requirements.txt
+lxml>=5
+mss>=9
+opencv-python>=4.9
+psutil>=5.9
+pygame>=2.5

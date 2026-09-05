@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openet2"
+version = "1.6.0"
+description = "Structured collection and long-term benchmarking tools for remote eye trackers"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib>=3.8",
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "seaborn>=0.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+video = ["opencv-python>=4.9"]
+collection = [
+  "lxml>=5",
+  "mss>=9",
+  "opencv-python>=4.9",
+  "psutil>=5.9",
+  "pygame>=2.5",
+]
+
+[project.scripts]
+openet2 = "openet2.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "--import-mode=importlib"
+testpaths = ["tests"]
